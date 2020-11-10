@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">praktikum5</string>
+    <string name="btn_prodi">Next</string>
+    <string name="hint_input_prodi">Input Prodi</string>
+    <string name="error_input_prodi">Prodi Tidak Boleh Kosong</string>
+    <string name="btn_call_browser">Pelajari Lebih Lanjut</string>
+    <string name="btn_call_camera">KAMERA</string>
+    <string name="input_phone_number">Input Nomor Telepon</string>
+    <string name="btn_call_phone">Panggil</string>
+    <string name="btn_fragment">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_first">Fragment Pertama</string>
+    <string name="input_nama">Masukan Nama</string>
+    <string name="input_nim">Masukan Nim</string>
+    <string name="btn_to_second_fragment">Lanjutkan</string>
+    <string name="fragment_second">Ini Halaman Fragment Kedua</string>
+    <string name="btn_kembali_beranda">KEMBALI</string>
+
+</resources>
